@@ -1,15 +1,15 @@
 {
-  "bot-name": "gifted-md",
-  "description": "I am Gifted-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "bot-name": "Tsun-md",
+  "description": "I am Tsun-Md, a Simple WhatsApp Bot built By °【〆༯𝙎ค૯𝙀𝘿】✘,【.ISHU.】 to Enhance WhatsApp Communication experience",
   "logo": "https://files.catbox.moe/52699c.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "keywords": ["tsun-md", "tsuntech", "TSun-Md"],
   "documentation-link": "https://pairing.giftedtech.web.id",
-  "owner-verification":"jemmimaonyango@gmail.com",
+  "owner-verification":"tsuncca20@gmail.com",
   "env": {
     "SESSION_ID": {
       "description": "Must Start with 'Gifted~'",
       "required": true,
-      "value": ""
+      "value": "Gifted~2SfzlNOqwDDkrAplWumE"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -19,17 +19,17 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "°【〆༯𝙎ค૯𝙀𝘿】✘,【.ISHU.】"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "254715206562"
+      "value": "923137183974"
     },
     "ANTI_DELETE": {
       "description": "Put true/inboxonly/allchats/false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true/false",
