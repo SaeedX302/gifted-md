@@ -44,12 +44,12 @@
     "AUTO_LIKE_EMOJIS": {
       "description": "Your custom status like emoji(s)",
       "required": false,
-      "value": "💜,💛,❤️,🤍,🖤,💙"
+      "value": "🥀,👻,🤞,😷,😎"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "STATUS_REPLY_MSG": {
       "description": "Set your status reply message to be sent after bot views status",
@@ -59,32 +59,32 @@
     "AUTO_READ_MESSAGES": {
       "description": "Make it true/commands/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "PRESENCE": {
       "description": "Put online/typing/recording/unavailable",
       "required": true,
-      "value": "online"
+      "value": "typing"
     },
     "WELCOME": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "GOODBYE": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ANTILINK": {
       "description": "Make it true/delete/warn/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ANTIBAD": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "BAD_WORDS": {
       "description": "Enter bad words separated by a comma(will be deleted if ANTIBAD is set to true)",
@@ -94,12 +94,12 @@
     "AUTO_AUDIO": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "TIME_ZONE": {
       "description": "Put your timezone or leave to default if you do not know",
       "required": false,
-      "value": "Africa/Nairobi"
+      "value": "Asia/karachi"
     },
     "AUTO_BLOCK": {
       "description": "Provide country codes you want the bot to automatically block",
@@ -109,7 +109,7 @@
     "AUTO_REACT": {
       "description": "Make it true/false",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ANTICALL": {
       "description": "Make it true/block/false",
@@ -124,27 +124,27 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃"
+      "value": "°【〆༯𝙎ค૯𝙀𝘿】✘,【.ISHU.】"
     },
     "BOT_PIC": {
       "description": "You can edit this but it must be a valid image url(link).",
       "required": false,
-      "value": "https://files.giftedtech.web.id/file/gifted-md.jpg"
+      "value": "https://i.ibb.co/hxrH842b/92c74fa6-50cf-4276-ada1-7d9c503f254e.jpg"
     },
     "PACK_AUTHOR": {
       "description": "You can enter your sticker pack author",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇"
+      "value": "°【〆༯𝙎ค૯𝙀𝘿】✘"
     },
     "PACK_NAME": {
       "description": "You can enter your sticker pack name.",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜"
+      "value": "【.ISHU.】"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": true,
-      "value": "."
+      "value": "/"
     }
   }
   }
